@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/grs.unity
+    guid: 0a10fcaf4f3fe9b4e90f7125cd1bfcf5
+  - enabled: 1
+    path: Assets/Scenes/hastakayt.unity
+    guid: 3b32e8ad6734aca4c97bbe80d7b667b1
+  - enabled: 1
+    path: Assets/Scenes/hastaynlendr.unity
+    guid: 169b43ff80b4b564b81f693843927221
+  - enabled: 1
+    path: Assets/Scenes/rapor.unity
+    guid: 4869c0be30652df4d94dd3dd1222cfc5
+  - enabled: 1
+    path: Assets/Scenes/oyunsec.unity
+    guid: 44b891999b94fc340a0e2634a5431176
+  - enabled: 1
+    path: Assets/Scenes/ponksolypoz.unity
+    guid: 6a813c4f801603348abe2d30ebd0105a
+  - enabled: 1
+    path: Assets/Scenes/ponkypoz.unity
+    guid: 6511842241184064e9dbfbd7671eb3ad
+  - enabled: 1
+    path: Assets/Scenes/breaksag.unity
+    guid: 80d681d5716d78b48ae2e799eda6345e
+  - enabled: 1
+    path: Assets/Scenes/breaksol.unity
+    guid: adfca4a1bef19e145b4011362d7653b3
+  - enabled: 1
+    path: Assets/Scenes/raporlama.unity
+    guid: 284992ac53395cf40b89d3fef3e31454
+  m_configObjects: {}
